@@ -12,8 +12,8 @@ Implemented design concepts:
 
 ### How to run with the Ionic CLI:
 
-```
-npm install
-ionic serve --lab 
-```
+Use ```
+npm install ``` to install the required dependancies <br>
+Use ```ionic serve --lab ``` to run the code in the development environment
+
 
